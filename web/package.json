@@ -56,7 +56,7 @@
     "shim-loader": "^1.0.1",
     "style-loader": "^4.0.0",
     "stylis": "^4.4.0",
-    "svgo": "^4.0.1",
+    "svgo": "^4.0.2",
     "svgo-loader": "^4.0.0",
     "terser-webpack-plugin": "^5.5.0",
     "typescript": "^6.0.3",
@@ -69,7 +69,7 @@
     "yarn-audit-html": "7.3.2"
   },
   "optionalDependencies": {
-    "sharp": "^0.34.4"
+    "sharp": "^0.35.0"
   },
   "dependencies": {
     "@codemirror/lang-json": "^6.0.2",
@@ -108,7 +108,7 @@
     "convert-units": "^2.3.4",
     "date-fns": "^4.1.0",
     "diff-arrays-of-objects": "^1.1.10",
-    "dompurify": "^3.4.11",
+    "dompurify": "^3.4.12",
     "hotkeys-js": "^4.0.3",
     "html-to-image": "1.11.11",
     "immutability-helper": "^3.1.1",
